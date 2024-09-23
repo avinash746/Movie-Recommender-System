@@ -25,5 +25,10 @@
   streamlit run App.py
   ```
 
+##Images
+![image](https://github.com/user-attachments/assets/b6a79ed1-7ec7-4aa8-9d29-89410e9ae44f)
+
+
+![image](https://github.com/user-attachments/assets/85f6ba67-5617-4390-ab79-7e5769d5da59)
 
 
